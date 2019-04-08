@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yifan-lee.github.io/website_try_1/parent/child/subchild/</loc>
+    <lastmod>2019-04-07T17:50:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yifan-lee.github.io/website_try_1/parent/child/</loc>
+    <lastmod>2019-04-07T17:30:15-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yifan-lee.github.io/website_try_1/posts/about/</loc>
   </url>
   
@@ -13,6 +23,12 @@
   
   <url>
     <loc>https://yifan-lee.github.io/website_try_1/</loc>
+    <lastmod>2019-04-07T17:50:33-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifan-lee.github.io/website_try_1/parent/</loc>
     <priority>0</priority>
   </url>
   
