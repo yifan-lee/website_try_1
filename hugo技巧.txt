@@ -1,0 +1,3 @@
+# 加主题
+
+git submodule add https://github.com/digitalcraftsman/hugo-cactus-theme themes/cactus

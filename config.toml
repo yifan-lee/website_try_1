@@ -1,0 +1,5 @@
+baseURL = "https://yifan-lee.github.io/website/"
+languageCode = "en-us"
+title = "Just Try"
+theme = "cactus"
+publishDir = "docs"
