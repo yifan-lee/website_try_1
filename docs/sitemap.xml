@@ -3,38 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/yifan-lee/website_try_1/post/first-post/</loc>
+    <loc>https://yifan-lee.github.io/website_try_1/post/first-post/</loc>
     <lastmod>2019-04-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/yifan-lee/website_try_1/</loc>
-    <lastmod>2019-04-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/yifan-lee/website_try_1/post/</loc>
+    <loc>https://yifan-lee.github.io/website_try_1/</loc>
     <lastmod>2019-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/yifan-lee/website_try_1/about/</loc>
+    <loc>https://yifan-lee.github.io/website_try_1/post/</loc>
+    <lastmod>2019-04-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifan-lee.github.io/website_try_1/about/</loc>
     <lastmod>2019-04-07T17:30:15-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/yifan-lee/website_try_1/contact/</loc>
+    <loc>https://yifan-lee.github.io/website_try_1/contact/</loc>
   </url>
   
   <url>
-    <loc>https://github.com/yifan-lee/website_try_1/tags/</loc>
+    <loc>https://yifan-lee.github.io/website_try_1/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/yifan-lee/website_try_1/topics/</loc>
+    <loc>https://yifan-lee.github.io/website_try_1/topics/</loc>
     <priority>0</priority>
   </url>
   

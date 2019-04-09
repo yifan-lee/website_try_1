@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Just a Try</title>
-    <link>https://github.com/yifan-lee/website_try_1/</link>
+    <link>https://yifan-lee.github.io/website_try_1/</link>
     <description>Recent content on Just a Try</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
     <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/yifan-lee/website_try_1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yifan-lee.github.io/website_try_1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://github.com/yifan-lee/website_try_1/post/first-post/</link>
+      <link>https://yifan-lee.github.io/website_try_1/post/first-post/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/yifan-lee/website_try_1/post/first-post/</guid>
+      <guid>https://yifan-lee.github.io/website_try_1/post/first-post/</guid>
       <description>I hope I can fulfill this page one day.</description>
     </item>
     
     <item>
       <title>About me and this site</title>
-      <link>https://github.com/yifan-lee/website_try_1/about/</link>
+      <link>https://yifan-lee.github.io/website_try_1/about/</link>
       <pubDate>Sun, 07 Apr 2019 17:30:15 -0400</pubDate>
       
-      <guid>https://github.com/yifan-lee/website_try_1/about/</guid>
+      <guid>https://yifan-lee.github.io/website_try_1/about/</guid>
       <description>I&amp;rsquo;m a Ph.D. student in Department of Statistics, UConn.
 Before came to UConn, I finished my bachelor degree in School of Mathematical Sciences, Nanjing University, and mater degree in Department of Statistics, UW-Madison.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://github.com/yifan-lee/website_try_1/contact/</link>
+      <link>https://yifan-lee.github.io/website_try_1/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/yifan-lee/website_try_1/contact/</guid>
+      <guid>https://yifan-lee.github.io/website_try_1/contact/</guid>
       <description> Email: yifan.3.li@uconn.edu  </description>
     </item>
     

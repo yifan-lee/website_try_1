@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on Just a Try</title>
-    <link>https://github.com/yifan-lee/website_try_1/topics/</link>
+    <link>https://yifan-lee.github.io/website_try_1/topics/</link>
     <description>Recent content in Topics on Just a Try</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
     
-	<atom:link href="https://github.com/yifan-lee/website_try_1/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yifan-lee.github.io/website_try_1/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
