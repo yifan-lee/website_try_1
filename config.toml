@@ -1,9 +1,9 @@
-baseurl = "https://yifan-lee.github.io/website_try_1/"
+baseurl = "https://github.com/yifan-lee/website_try_1"
 languageCode = "en-us"
 title = "Just a Try"
 theme = "blackburn"
 publishDir = "docs"
-author = "YIfan Li"
+author = "Yoshiharu Yamashita"
 copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
 paginate = 10
