@@ -1,9 +1,9 @@
 baseurl = "https://yifan-lee.github.io/website_try_1/"
 languageCode = "en-us"
-title = "Blackburn Theme Demo"
+title = "Just a Try"
 theme = "blackburn"
 publishDir = "docs"
-author = "Yoshiharu Yamashita"
+author = "YIfan Li"
 copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
 paginate = 10
@@ -14,7 +14,7 @@ paginate = 10
 
 [params]
   # Shown in the home page
-  subtitle = "A Hugo Theme"
+  subtitle = "Yifan Li's Homepage"
   brand = "Blackburn"
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "Your Disqus shortname"
