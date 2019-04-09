@@ -1,7 +1,8 @@
-baseurl = "https://www.example.com/"
+baseurl = "https://yifan-lee.github.io/website_try_1/"
 languageCode = "en-us"
 title = "Blackburn Theme Demo"
 theme = "blackburn"
+publishDir = "docs"
 author = "Yoshiharu Yamashita"
 copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true

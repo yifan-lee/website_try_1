@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Just Try</title>
+    <title>Tags on Blackburn Theme Demo</title>
     <link>https://yifan-lee.github.io/website_try_1/tags/</link>
-    <description>Recent content in Tags on Just Try</description>
+    <description>Recent content in Tags on Blackburn Theme Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
     
 	<atom:link href="https://yifan-lee.github.io/website_try_1/tags/index.xml" rel="self" type="application/rss+xml" />
     

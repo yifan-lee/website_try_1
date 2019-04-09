@@ -3,42 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yifan-lee.github.io/website_try_1/parent/child/subchild/</loc>
-    <lastmod>2019-04-07T17:50:33-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yifan-lee.github.io/website_try_1/parent/child/</loc>
-    <lastmod>2019-04-07T17:30:15-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yifan-lee.github.io/website_try_1/posts/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yifan-lee.github.io/website_try_1/categories/</loc>
-    <priority>0</priority>
+    <loc>https://yifan-lee.github.io/website_try_1/post/first-post/</loc>
+    <lastmod>2019-04-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://yifan-lee.github.io/website_try_1/</loc>
-    <lastmod>2019-04-07T17:50:33-04:00</lastmod>
+    <lastmod>2019-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yifan-lee.github.io/website_try_1/parent/</loc>
+    <loc>https://yifan-lee.github.io/website_try_1/post/</loc>
+    <lastmod>2019-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yifan-lee.github.io/website_try_1/posts/</loc>
-    <priority>0</priority>
+    <loc>https://yifan-lee.github.io/website_try_1/about/</loc>
+    <lastmod>2019-04-07T17:30:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yifan-lee.github.io/website_try_1/contact/</loc>
   </url>
   
   <url>
     <loc>https://yifan-lee.github.io/website_try_1/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifan-lee.github.io/website_try_1/topics/</loc>
     <priority>0</priority>
   </url>
   
