@@ -1,3 +1,12 @@
 [submodule "themes/cactus"]
 	path = themes/cactus
 	url = https://github.com/digitalcraftsman/hugo-cactus-theme
+[submodule "themes/Leavelt"]
+	path = themes/Leavelt
+	url = https://github.com/liuzc/LeaveIt.git
+[submodule "themes/LeaveIt"]
+	path = themes/LeaveIt
+	url = https://github.com/liuzc/LeaveIt.git
+[submodule "themes/a"]
+	path = themes/a
+	url = https://github.com/JugglerX/hugo-whisper-theme
